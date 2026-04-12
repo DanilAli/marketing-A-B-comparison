@@ -40,9 +40,9 @@
 
 ├── actions_per_user.csv # Исходные данные (не включены в репозиторий)
 
-├── req.txt # Список зависимостей
+├── README.md 
 
-└── README.md
+└── requirements.txt
 
 ---
 
